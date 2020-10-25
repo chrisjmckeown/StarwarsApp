@@ -30,7 +30,6 @@ Build a list of your favourite Star Wars characters.
 ### Technologies Utilized
 ![GitHub language count](https://img.shields.io/github/languages/count/chrisjmckeown/StarwarsApp?style=flat-square)![GitHub top language](https://img.shields.io/github/languages/top/chrisjmckeown/StarwarsApp?style=flat-square)
 
-"Remove unwanted badges"
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 ## Usage
@@ -44,6 +43,8 @@ Once installed:
 ### Heroku Deployment
 
 View the deployed app here: https://serene-mountain-24194.herokuapp.com/
+
+<img src="./starwars.png" alt="starwars"> 
 
 ## License
  
